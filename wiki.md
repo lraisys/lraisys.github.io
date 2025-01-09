@@ -1,5 +1,5 @@
 # Breakfast Food
-![](https://images.app.goo.gl/pcpFi4vhrHJnssJo8)
+![](https://unsplash.com/photos/breakfast-menu-teuvnOXOGVo)
 
 Breakfast is often considered the most important meal of the day. It provides the *essential nutrients* and *energy* needed to start the day. Breakfast foods vary widely around the world, but common choices include **eggs, cereals, pastries,** and beverages like **coffee or juice**.
 
@@ -7,6 +7,7 @@ Breakfast is often considered the most important meal of the day. It provides th
 Breakfast foods can be sweet or savory, and their popularity often depends on cultural and regional preferences.
 
 ### Sweet Breakfast Options
+![](https://unsplash.com/photos/baked-pancake-with-blueberry-and-slice-of-banan-qp7WA8AV2x0)
 Sweet breakfast foods are favored in many cultures. They often include fruits, pastries, and sweetened cereals. Some popular examples are:
 
 - **Pancakes**
@@ -15,6 +16,7 @@ Sweet breakfast foods are favored in many cultures. They often include fruits, p
 - **Pastries**
 
 ### Savory Breakfast Options
+![] (https://www.shutterstock.com/image-photo/fried-eggs-bacon-plate-on-white-1992948053)
 Savory breakfasts often include protein-rich foods such as eggs, meat, or cheese. Examples of savory breakfasts include:
 
 - **Scrambled eggs**
@@ -23,6 +25,7 @@ Savory breakfasts often include protein-rich foods such as eggs, meat, or cheese
 - **Breakfast burritos**
 
 ### Breakfast Beverages
+![ (https://unsplash.com/photos/two-white-cups-filled-with-coffee-beans-on-a-table-vCRZKz5e8x8)]
 Beverages also play a crucial role in breakfast meals. Some popular drinks include:
 
 - **Coffee**
