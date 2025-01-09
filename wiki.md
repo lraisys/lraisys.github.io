@@ -43,9 +43,9 @@ Different countries have unique breakfast traditions. For example:
 - In **Scotland**, porridge (oatmeal) is a traditional morning food.
 
 ## See also
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
+- [Resource 1](https://www.betterhealth.vic.gov.au/health/healthyliving/breakfast)
+- [Resource 2](https://www.nytimes.com/2024/01/23/learning/breakfast.html)
+- [Resource 3](https://www.nytimes.com/2023/04/23/well/eat/healthy-breakfast.html)
 
 ## References
 1. Reference 1
