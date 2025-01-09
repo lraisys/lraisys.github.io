@@ -42,12 +42,7 @@ Different countries have unique breakfast traditions. For example:
 - In **Mexico**, dishes like chilaquiles or tamales are common for breakfast.
 - In **Scotland**, porridge (oatmeal) is a traditional morning food.
 
-## See also
-- [Resource 1](https://www.betterhealth.vic.gov.au/health/healthyliving/breakfast)
-- [Resource 2](https://www.nytimes.com/2024/01/23/learning/breakfast.html)
-- [Resource 3](https://www.nytimes.com/2023/04/23/well/eat/healthy-breakfast.html)
-
-## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
+## Helpful Articles
+- [Harvard Health: A Doctor’s Recipe for a Healthy Breakfast](https://www.health.harvard.edu/blog/a-doctors-recipe-for-a-healthy-breakfast-2017100612479)
+- [CNN: Breakfast Around the World](https://www.cnn.com/travel/article/breakfast-food-around-the-world/index.html)
+- [The New York Times: Secrets of a Healthy Breakfast](https://www.nytimes.com/2023/04/23/well/eat/healthy-breakfast.html)
