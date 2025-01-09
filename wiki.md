@@ -17,6 +17,7 @@ Sweet breakfast foods are favored in many cultures. They often include fruits, p
 
 ### Savory Breakfast Options
 ![](./images/savory.jpg)
+
 Savory breakfasts often include protein-rich foods such as eggs, meat, or cheese. Examples of savory breakfasts include:
 
 - **Scrambled eggs**
@@ -26,6 +27,7 @@ Savory breakfasts often include protein-rich foods such as eggs, meat, or cheese
 
 ### Breakfast Beverages
 ![](./images/coffee.jpg)
+
 Beverages also play a crucial role in breakfast meals. Some popular drinks include:
 
 - **Coffee**
