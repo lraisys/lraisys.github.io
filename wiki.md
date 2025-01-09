@@ -22,13 +22,6 @@ Savory breakfasts often include protein-rich foods such as eggs, meat, or cheese
 - **Omelettes**
 - **Breakfast burritos**
 
-## Global Breakfast Trends
-Different countries have unique breakfast traditions. For example:
-
-- In **Japan**, breakfast might include miso soup, rice, and fish.
-- In **Mexico**, dishes like chilaquiles or tamales are common for breakfast.
-- In **Scotland**, porridge (oatmeal) is a traditional morning food.
-
 ### Breakfast Beverages
 Beverages also play a crucial role in breakfast meals. Some popular drinks include:
 
@@ -36,6 +29,13 @@ Beverages also play a crucial role in breakfast meals. Some popular drinks inclu
 - **Juice**
 - **Smoothies**
 - **Milk**
+
+## Global Breakfast Trends
+Different countries have unique breakfast traditions. For example:
+
+- In **Japan**, breakfast might include miso soup, rice, and fish.
+- In **Mexico**, dishes like chilaquiles or tamales are common for breakfast.
+- In **Scotland**, porridge (oatmeal) is a traditional morning food.
 
 ## See also
 - [Resource 1](url)
